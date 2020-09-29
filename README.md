@@ -1,6 +1,6 @@
 # Plotly
 
-#Project deployed at https://taureanh.github.io/Ploty_project/
+# Project deployed at https://taureanh.github.io/Ploty_project/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
